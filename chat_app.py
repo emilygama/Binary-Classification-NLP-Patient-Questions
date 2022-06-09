@@ -10,7 +10,6 @@ from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 import requests
-import pyautogui
 
 st.title('Online Chat Interface Example')
 
@@ -51,9 +50,7 @@ for chat in st.session_state.history:
     st_message(**chat)
 
 st.markdown("""---""")
- 
-if st.button("Reset"):
-    pyautogui.hotkey("command","shift","r")
+
 
 
 

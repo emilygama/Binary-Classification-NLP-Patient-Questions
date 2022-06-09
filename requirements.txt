@@ -2,7 +2,6 @@ imbalanced-learn==0.9.1
 nltk==3.7
 pandas==1.4.2
 pipeline==0.1.0
-pyautogui==0.9.53
 requests==2.27.1
 scikit_learn==1.1.1
 streamlit==1.9.0
