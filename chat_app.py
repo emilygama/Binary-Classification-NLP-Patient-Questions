@@ -1,11 +1,8 @@
 import streamlit as st
 from streamlit_chat import message as st_message
-import plotly.express as px
 import time
 import pickle
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 import requests
 import pyautogui
 
