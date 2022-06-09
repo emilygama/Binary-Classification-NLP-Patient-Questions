@@ -2,6 +2,12 @@ import streamlit as st
 from streamlit_chat import message as st_message
 import time
 import pickle
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from imblearn.over_sampling import RandomOverSampler
+from sklearn.pipeline import Pipeline
+from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 import requests
 import pyautogui
