@@ -52,8 +52,8 @@ for chat in st.session_state.history:
 st.markdown("""---""")
 
 
-st.subheader('If you think you have a medical emergency, call your doctor or 911 immediately. Do not rely on electronic communications or communication through this website for immediate, urgent medical needs. This website is not designed to facilitate medical emergencies.')
-st.subheader('DO NOT USE OUR SERVICE TO seek medical services for someone who is unconscious, not breathing or gasping for air, having chest pain, uncontrollably bleeding, or any other symptoms that require immediate or emergent medical attention. CALL 911 OR GO TO THE NEAREST EMERGENCY DEPARTMENT (ED) IMMEDIATELY IF YOU HAVE AN EMERGENCY MEDICAL NEED.')
-st.subheader('This website uses text to provide medical information and help. This website cannot use images, audio, or video to treat conditions. Anything that cannot be helped via text needs to be assessed by a phyisican through telehealth or in person services.')
+st.write('If you think you have a medical emergency, call your doctor or 911 immediately. Do not rely on electronic communications or communication through this website for immediate, urgent medical needs. This website is not designed to facilitate medical emergencies.')
+st.write('**DO NOT USE OUR SERVICE TO seek medical services for someone who is unconscious, not breathing or gasping for air, having chest pain, uncontrollably bleeding, or any other symptoms that require immediate or emergent medical attention. CALL 911 OR GO TO THE NEAREST EMERGENCY DEPARTMENT (ED) IMMEDIATELY IF YOU HAVE AN EMERGENCY MEDICAL NEED.**')
+st.write('This website uses text to provide medical information and help. This website cannot use images, audio, or video to treat conditions. Anything that cannot be helped via text needs to be assessed by a phyisican through telehealth or in person services.')
 
 
