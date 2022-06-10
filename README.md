@@ -1,6 +1,8 @@
 # NLP Binomial Classification for Real-Time Patient Messaging Feature
 ### Emily Gama, Data Scientist
 
+[*STREAMLIT*](https://share.streamlit.io/emilygama/binary-classification-nlp-patient-questions/main/chat_app.py)
+
 ### Background
 As a member of the data science team, I have been tasked with the second phase of our new online website product on medlineplus.gov from the US National Library of Medicine. This product allows consumers to input a question into our embedded chat feature. Our team has already built out a model to summarize the questions into a basic and logical form. This is where I come in: I will be building the model to differentiate between question content and direct them to our on-call specialists for answering. This chat feature will function similarly to an online customer service chat platform. In this second phase, I will focus on the classification feature and building out an initial chat interface to progress to the engineering team. 
 
