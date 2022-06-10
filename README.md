@@ -10,6 +10,9 @@ Risks and Assumptions: For this project, I am attempting the minimum valuable pr
 [*Access Data*](https://paperswithcode.com/dataset/meqsum)
 
 
+# source for streamlit: https://github.com/andfanilo/social-media-tutorials/blob/master/20220124-streamlitchat/streamlit_app.py, https://github.com/AI-Yash/st-chat/blob/main/streamlit_chat/__init__.py
+# medical disclaimer: https://www.massgeneral.org/notices/disclaimer, https://www.insted.us/emergency-disclaimer
+
 
 
 
